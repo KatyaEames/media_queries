@@ -1,0 +1,38 @@
+html, body {
+    height: 100%;
+}
+img {
+    width: 100%;
+    height: auto;
+}
+strong {
+    color: #000;
+}
+.text {
+    color: #636363;
+    width: 70%;
+    height: 40%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.norm {
+    font-family: serif;
+}
+.ital {
+    font-family: serif;
+    border-left: 2px solid black;
+    font-style: italic;
+}
+a {
+    color: #000;
+    font-weight: bold;
+}
+.box {
+    width: 100%;
+    height: 100%;
+    background: #f3f3f3;
+    display: inline-block;
+}
+.end {
+    margin-bottom: 20px;
+}
